@@ -1,0 +1,8 @@
+Tarefa 
+Modify project to
+	integrate with a database
+		chroma db ou posgress
+		whe save user and product vectors
+	when recommend fetch user vectors closer to user recommendation
+	and run predict method again
+	Publish in social media
