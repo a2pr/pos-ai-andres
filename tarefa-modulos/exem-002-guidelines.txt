@@ -1,0 +1,5 @@
+Tarefa 
+	Leer links
+	hackear outro jogo que pode ser jogado no navegador
+	para jogar sozinho e zerar o jogo
+	Leer a materia de Hugo
